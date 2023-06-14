@@ -193,12 +193,12 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Rick And Morty APP",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "This App basically for Rick and Morty's fans. They can search for any character, location  ",
     tags: [
       {
-        name: "react",
+        name: "Android",
         color: "blue-text-gradient",
       },
       {
@@ -206,17 +206,17 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Kotlin",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/EON-Incubator/RickAndMorty-Android",
   },
   {
-    name: "Job IT",
+    name: "YouTube Clone",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "This is YouTube clone. User can search videos and watch it online.",
     tags: [
       {
         name: "react",
@@ -227,33 +227,33 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/jashan-786/YouTubeClone",
   },
   {
-    name: "Trip Guide",
+    name: "Portfolio",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "This is a Porfolio of me. It reflects my skills and experiences.",
     tags: [
       {
-        name: "nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Three-js",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwind/motion",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/jashan-786/Portfolio.github.io",
   },
 ];
 
